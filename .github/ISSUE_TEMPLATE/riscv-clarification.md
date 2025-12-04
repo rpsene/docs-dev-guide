@@ -1,8 +1,9 @@
 ---
 name: RISC-V Clarification
 description: ISA interpretation request
-title: "[Clarification] - "
+title: "[Clarification] -"
 labels: ["Clarification"]
+
 body:
   - type: input
     id: summary
