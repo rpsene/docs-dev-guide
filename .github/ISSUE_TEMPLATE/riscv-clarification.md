@@ -1,7 +1,16 @@
 ---
-name: "RISC-V ISA Clarification"
-about: "Request clarification regarding RISC-V ISA behavior, privilege rules, CSR semantics, encoding, extensions, or compliance."
+name: RISC-V Clarification
+description: ISA interpretation request
+title: "[Clarification] - "
 labels: ["Clarification"]
+body:
+  - type: input
+    id: summary
+    attributes:
+      label: Summary
+      placeholder: Misaligned load trap in RV64 S-mode
+    validations:
+      required: true
 ---
 
 ## Summary
