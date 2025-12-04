@@ -1,6 +1,7 @@
 ---
 name: "RISC-V ISA Clarification"
 about: "Request clarification regarding RISC-V ISA behavior, privilege rules, CSR semantics, encoding, extensions, or compliance."
+title: "[Clarification] - "  
 labels: ["Clarification"]
 ---
 
